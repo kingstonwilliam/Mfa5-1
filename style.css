@@ -1,0 +1,51 @@
+
+    body{
+        background-color: #0d1a2d;
+      }
+      .content{
+        margin:130px auto;
+        height:550px;
+        width:300px;
+        background-color: #15273f;
+        padding:30px;
+        color:#7f95b4;
+        font-family: 'Outfit', sans-serif;
+        border-radius:10px;
+      }
+      #ethernium{
+        width:300px;
+        border-radius:10px;
+      }
+      .content h3{
+        color:white;
+        font-weight: 500;
+      }
+      .value{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        font-size: 18px;
+      }
+      .value :nth-child(1){
+        color:#04fbf9;
+      }
+      hr{
+        border:0.5px solid #7f95b4;
+        opacity: .6;
+      }
+      .footer img{
+        width:40px;
+        height:40px;
+        border-radius: 50%;
+        margin-right: 20px;
+        border: white 1px solid;
+      }
+      .footer{
+        display: flex;
+        margin-top:10px;
+        align-items: center;
+      }
+      #name{
+        color:white;
+      }
